@@ -1,0 +1,1 @@
+recursive program for the general n-dimensional integral general program is outlined for n-dimensional integration with variable limits the program is of recursive nature and uses simpson rule combined with repeated bisection to attain the required accuracy it was developed in the ferranti mercury autocode scheme cacm january 1963 cadwell ca630107 jb march 14 1978 43 pm

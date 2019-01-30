@@ -1,0 +1,1 @@
+comit as an ir language many of the features that make comit good all around symbol manipulation language also render it well suited to various types of information retrieval programs presented here is general discussion of this unique and different programming language and an examination of some of its applications cacm january 1962 yngve ca620104 jb march 20 1978 46 pm

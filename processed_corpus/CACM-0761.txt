@@ -1,0 +1,1 @@
+note on the dangling else in algol 60 some revisions of algol 60 are proposed which not only eliminate certain ambiguous statements but also add some convenience to the language discussion of the background of the problem and sketch of proof that the ambiguities have been removed is included cacm august 1963 kaupe jr ca630837 jb march 13 1978 06 pm

@@ -1,0 +1,1 @@
+the alcor illinois 7090 7094 post mortem dump dump technique for programs written in algol 60 is described this technique provides an intelligible analysis of an unsuccessful computation process in terms of the original source program cacm december 1967 bayer gries paul wiehle ca671209 jb february 26 1978 18 pm

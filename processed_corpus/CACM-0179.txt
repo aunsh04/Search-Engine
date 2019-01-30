@@ -1,0 +1,1 @@
+evaluation of the legendre polynomial pn by recursion algorithm cacm june 1960 galler ca600611 jb march 20 1978 35 pm

@@ -1,0 +1,1 @@
+eigenvectors of 2n 2n matrix it has been known that the eigenvalues of certain 2n 2n matrix can be obtained by use of two smaller matrices of order which can be easily constructed an algorithm is given to obtain the eigenvectors of the 2n 2n matrix by use of the eigenvectors of the smaller matrices cacm december 1967 charmonman ca671207 jb february 26 1978 22 pm

@@ -1,0 +1,1 @@
+solution of transcendental equations by series reversion an algorithm is developed for expressing the solution of the equation as power series in x0 when and are given as power series and the root y0 is known at x0 the algorithm is illustrated for the equation ln ln cacm january 1966 thacher jr ca660102 jb march 1978 27 pm

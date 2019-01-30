@@ -1,0 +1,1 @@
+the damped taylor series method for minimizing sum of squares and for solving systems of nonlinear equations cacm november 1967 spath ca671107b jb march 23 1978 17 pm

@@ -1,0 +1,1 @@
+routine to find the solution of simultaneous linear equations with polynomial coefficients cacm april 1959 larson marshall ca590403 jb march 22 1978 12 pm

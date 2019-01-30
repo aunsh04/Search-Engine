@@ -1,0 +1,1 @@
+on top-to-bottom recognition and left recursion procedure is given for obtaining structural descriptions in context-free grammar by performing the recognition according to strongly equivalent left-recursion-freegrammar the effect of allowing null strings in the rewriting rules is discussed cacm july 1966 kurki-suonio ca660713 jb march 1978 29 pm

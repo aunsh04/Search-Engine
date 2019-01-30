@@ -1,0 +1,1 @@
+constraint-type statements in programming languages proposal is made for including in programming language statements which imply relations between variables but which are not explicit assignment statements the compiler sets up newtonian iteration making use for the purpose of routine for formal differentiation cacm october 1964 wilkes ca641012 jb march 1978 42 pm

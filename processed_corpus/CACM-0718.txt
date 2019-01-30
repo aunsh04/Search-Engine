@@ -1,0 +1,1 @@
+an experiment in automatic verification of programs how effective is compiler at replacing explicit verification and what is the cost of this technique cacm october 1963 weinberg gressett ca631007 jb march 13 1978 59 pm

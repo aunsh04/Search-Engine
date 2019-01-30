@@ -1,0 +1,102 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú‹¸e8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+ƒsquid:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(’™à€üÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï·¨Ä8™äÔ¢ù,
+8squid:S1643"Use a StringBuilder instead.(«¡Àı8­¸œ®ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(øÈ¦8­¸œ®ù,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8™äÔ¢ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ’ö»şÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(íì8™äÔ¢ù,
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8­¸œ®ù,
+jsquid:UselessImportCheck"ARemove this unused import 'org.apache.lucene.document.TextField'.(•ÜÄŸ8™äÔ¢ù,
+asquid:S2147"ECombine this catch with the one at line 150, which has the same body.(ï­£Ä8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù·…à8™äÔ¢ù,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íï¦ıÿÿÿÿ8­¸œ®ù,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô©‡Öûÿÿÿÿ8­¸œ®ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­¸œ®ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÓÆö8™äÔ¢ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ü§úÿÿÿÿ8™äÔ¢ù,
+[squid:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(‚°Üè8™äÔ¢ù,
+qsquid:UselessImportCheck"CRemove this unused import 'org.apache.lucene.document.StringField'.(«¤çŞøÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(êØ…©8­¸œ®ù,
+Msquid:S3010",Remove this assignment of "expandedQueries".(³Äà´ÿÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(§û’¿8­¸œ®ù,
+Asquid:S1481"&Remove this unused "e" local variable.(Èµİu8™äÔ¢ù,
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Íøƒ 8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÏ ‰8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙÇãÜ8­¸œ®ù,
+Usquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(çúØùÿÿÿÿ8™äÔ¢ù,
+Hsquid:S3010"-Remove this assignment of "totalCorpusCount".(³Ø²q8™äÔ¢ù,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åã´Ôüÿÿÿÿ8î’®ù,
+ƒsquid:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Øÿ‰üÿÿÿÿ8™äÔ¢ù,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş†ç¾8­¸œ®ù,
+[squid:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(‚°Üè8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Íøƒ 8™äÔ¢ù,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãåÌæùÿÿÿÿ8­¸œ®ù,
+Usquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(¥‰ÿ¥øÿÿÿÿ8­¸œ®ù,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ô‚Ã8­¸œ®ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ñË›8­¸œ®ù,
+`squid:S2147"DCombine this catch with the one at line 62, which has the same body.(ï­£Ä8™äÔ¢ù,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËöÜ¹ùÿÿÿÿ8­¸œ®ù,
+gsquid:UselessImportCheck"9Remove this unused import 'org.apache.lucene.index.Term'.(«ˆîÏÿÿÿÿÿ8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+8squid:S1643"Use a StringBuilder instead.(„¦8™äÔ¢ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8­¸œ®ù,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğ¼°Ÿùÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(´ä¡É8­¸œ®ù,
+Usquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ëó§çşÿÿÿÿ8™äÔ¢ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú ùÿÿÿÿÿ8™äÔ¢ù,
+ksquid:UselessImportCheck"=Remove this unused import 'org.apache.lucene.document.Field'.(ğÃãÊÿÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤àû8­¸œ®ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ËÆ™8™äÔ¢ù,
+fsquid:S3518"EMake sure "corpusTermScore" can't be zero before doing this division.(ŒàÔµşÿÿÿÿ8­¸œ®ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(—¡¾­ùÿÿÿÿ8™äÔ¢ù,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªôš‰8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8­¸œ®ù,
+Usquid:S2864"4Iterate over the "entrySet" instead of the "keySet".( úì“ıÿÿÿÿ8­¸œ®ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûšëúşÿÿÿÿ8­¸œ®ù,
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(‹µı8­¸œ®ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆŸÇ‰8™äÔ¢ù,
+[squid:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(‚°Üè8™äÔ¢ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™äÔ¢ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÁÚ¡şÿÿÿÿ8™äÔ¢ù,
+asquid:S2147"ECombine this catch with the one at line 102, which has the same body.(ï­£Ä8™äÔ¢ù,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8™äÔ¢ù,
+Usquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Üä„Ûşÿÿÿÿ8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ç÷¼8™äÔ¢ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó‰›Ú8™äÔ¢ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯°‚¦ıÿÿÿÿ8™äÔ¢ù,

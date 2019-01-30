@@ -1,0 +1,55 @@
+
+=squid:S1643"Use a StringBuilder instead.(Åõ¥ûÿÿÿÿ8Ø¤§ù,
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Íøƒ 8Ø¤§ù,
+esquid:S1192"IDefine a constant instead of duplicating this literal "contents" 3 times.(Õ×áÄ8Ø¤§ù,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¨ºº8Ø¤§ù,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ø¤§ù,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ø¤§ù,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£×äò8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó‰›Ú8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÏ ‰8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨8Ø¤§ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Şª¢şÿÿÿÿ8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨8Ø¤§ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(êµæáşÿÿÿÿ8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³Î˜œ8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(øÈ¦8Ø¤§ù,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Ü±8Ø¤§ù,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÕ€T8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ñË›8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎŸœ“8Ø¤§ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(•´¿Àøÿÿÿÿ8Ø¤§ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ø¤§ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨8Ø¤§ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á‘Çç8Ø¤§ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÅÉü8Ø¤§ù,
+ƒsquid:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(’™à€üÿÿÿÿ8Ø¤§ù,
+[squid:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(‚°Üè8Ø¤§ù,
+asquid:S2259"@A "NullPointerException" could be thrown; "fr" is nullable here.(¯õâÇùÿÿÿÿ8Ø¤§ù,
+`squid:S2147"DCombine this catch with the one at line 63, which has the same body.(ï­£Ä8Ø¤§ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¤§ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¤§ù,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¤§ù,

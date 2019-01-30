@@ -1,0 +1,1 @@
+generalized bairstow algorithm the bairstow algorithm is generalized to the case of polynomial which is itself linear combination of polynomials satisfying three-term recursion convergence properties of the method are derived cacm june 1967 golub robertson ca670606 jb february 28 1978 21 am

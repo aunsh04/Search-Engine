@@ -1,0 +1,1 @@
+euler generalization of algol and its formal definition cacm december 1966 wirth weber ca661212 jb march 30 1978 11 am

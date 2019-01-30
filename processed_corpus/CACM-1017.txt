@@ -1,0 +1,1 @@
+comments on bit-sequencing of the ascii in serial-by-bit data transmission cacm august 1964 bemer booth ca640813 jb march 1978 45 pm

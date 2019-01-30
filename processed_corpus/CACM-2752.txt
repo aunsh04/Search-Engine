@@ -1,0 +1,1 @@
+generation of all the cycles of graph from set of basic cycles algorithm 492 cacm june 1975 gibbs basic cycle cycle graph 5.32 3.24 ca750601 jb january 1978 55 pm

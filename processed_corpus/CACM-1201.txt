@@ -1,0 +1,1 @@
+generation of permutations in lexico-graphical order algorithm 202 g6 cacm september 1965 elliott ca650905 jb march 1978 35 pm

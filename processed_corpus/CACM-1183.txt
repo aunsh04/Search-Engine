@@ -1,0 +1,1 @@
+note on the use of digital computer for doing tedious algebra and programming special purpose compiler was written with fortran ii language and made possible the writing of very long programs by the computer the procedure is based on straight-forward use of format statements for generating machine-written programs cacm october 1965 veronis ca651012 jb march 1978 31 pm

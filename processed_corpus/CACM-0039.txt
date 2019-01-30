@@ -1,0 +1,1 @@
+the secant method for simultaneous nonlinear equations procedure for the simultaneous solution of system of not-necessarily-linear equations generalization of the secant method for single function of one variable is given cacm december 1959 wolfe ca591203 jb march 22 1978 39 pm

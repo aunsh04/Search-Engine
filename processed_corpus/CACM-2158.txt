@@ -1,0 +1,1 @@
+stopping criterion for the newton-raphson method in implicit multistep integration algorithms for nonlinear systems of ordinary differential equations cacm september 1971 liniger ordinary differential equations linear multistep formulas newton-raphson method stopping criterion 5.11 5.15 5.17 ca710906 jb february 1978 13 pm

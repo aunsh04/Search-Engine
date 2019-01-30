@@ -1,0 +1,1 @@
+solution of polynomial equation by bairstow-hitchcock method algorithm cacm february 1960 grau ca600206 jb march 22 1978 20 pm

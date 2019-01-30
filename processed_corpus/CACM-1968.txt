@@ -1,0 +1,1 @@
+eigenvalues and eigenvectors of real general matrix algorithm 343 f1 cacm november 1970 knight mersereau eigenvalues eigenvectors latent roots householder method qr algorithm inverse iteration 5.14 ca701111 jb february 1978 30 pm
